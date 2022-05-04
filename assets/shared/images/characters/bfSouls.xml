@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfSouls.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="993" height="775"/>
+	<SubTexture name="BF idle dance0001" x="0" y="0" width="993" height="775"/>
+	<SubTexture name="BF idle dance0002" x="993" y="0" width="993" height="775"/>
+	<SubTexture name="BF idle dance0003" x="993" y="0" width="993" height="775"/>
+	<SubTexture name="BF idle dance0004" x="0" y="775" width="993" height="775"/>
+	<SubTexture name="BF idle dance0005" x="0" y="775" width="993" height="775"/>
+	<SubTexture name="BF idle dance0006" x="993" y="775" width="993" height="775"/>
+	<SubTexture name="BF idle dance0007" x="993" y="775" width="993" height="775"/>
+</TextureAtlas>

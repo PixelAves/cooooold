@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silver Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BlakeDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BlakeUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-126,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BlakeRight"
+		},
+		{
+			"offsets": [
+				-88,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BlakeLeft"
+		},
+		{
+			"offsets": [
+				-112,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lookup",
+			"indices": [],
+			"name": "lookup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				20
+			],
+			"anim": "fadeOut",
+			"fps": 24,
+			"name": "man",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				10,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				-110,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "still"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Silver Assets Gold3",
+	"position": [
+		150,
+		-50
+	],
+	"healthicon": "invis",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		71,
+		100
+	],
+	"camera_position": [
+		-57,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

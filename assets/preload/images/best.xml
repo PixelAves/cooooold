@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="best.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="best0000" x="0" y="0" width="536" height="679" frameX="-4" frameY="-1" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0001" x="0" y="0" width="536" height="679" frameX="-4" frameY="-1" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0002" x="536" y="0" width="538" height="683" frameX="0" frameY="0" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0003" x="536" y="0" width="538" height="683" frameX="0" frameY="0" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0004" x="1074" y="0" width="536" height="683" frameX="-3" frameY="-2" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0005" x="1074" y="0" width="536" height="683" frameX="-3" frameY="-2" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0006" x="0" y="683" width="532" height="677" frameX="-4" frameY="-6" frameWidth="540" frameHeight="685"/>
+	<SubTexture name="best0007" x="0" y="683" width="532" height="677" frameX="-4" frameY="-6" frameWidth="540" frameHeight="685"/>
+</TextureAtlas>

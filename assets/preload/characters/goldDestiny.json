@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-105,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silver Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				21
+			],
+			"anim": "fadeIn",
+			"fps": 24,
+			"name": "Silver Spawn FULL",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				10
+			],
+			"anim": "fadeOut",
+			"fps": 24,
+			"name": "shadowrealm",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BlakeDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BlakeUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BlakeSide1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BlakeSide2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Lost Silver Assets Gold",
+	"position": [
+		150,
+		-110
+	],
+	"healthicon": "invis",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		71,
+		100
+	],
+	"camera_position": [
+		-47,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

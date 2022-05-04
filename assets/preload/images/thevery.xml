@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thevery.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the very0000" x="0" y="0" width="540" height="675" frameX="0" frameY="-3" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0001" x="0" y="0" width="540" height="675" frameX="0" frameY="-3" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0002" x="0" y="0" width="540" height="675" frameX="0" frameY="-3" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0003" x="0" y="0" width="540" height="675" frameX="0" frameY="-3" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0004" x="540" y="0" width="536" height="683" frameX="-4" frameY="0" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0005" x="540" y="0" width="536" height="683" frameX="-4" frameY="0" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0006" x="540" y="0" width="536" height="683" frameX="-4" frameY="0" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0007" x="540" y="0" width="536" height="683" frameX="-4" frameY="0" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0008" x="1076" y="0" width="530" height="677" frameX="-5" frameY="-4" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0009" x="1076" y="0" width="530" height="677" frameX="-5" frameY="-4" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0010" x="1076" y="0" width="530" height="677" frameX="-5" frameY="-4" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0011" x="1076" y="0" width="530" height="677" frameX="-5" frameY="-4" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0012" x="0" y="683" width="536" height="677" frameX="-1" frameY="-6" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0013" x="0" y="683" width="536" height="677" frameX="-1" frameY="-6" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0014" x="0" y="683" width="536" height="677" frameX="-1" frameY="-6" frameWidth="540" frameHeight="683"/>
+	<SubTexture name="the very0015" x="0" y="683" width="536" height="677" frameX="-1" frameY="-6" frameWidth="540" frameHeight="683"/>
+</TextureAtlas>

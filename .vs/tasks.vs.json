@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-PlayState",
+      "appliesTo": "source/PlayState.hx",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-fourth times the charm",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-source",
+      "appliesTo": "source/",
+      "type": "launch"
+    }
+  ]
+}

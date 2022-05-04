@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FreeplayCelebi.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freeplay0000" x="0" y="0" width="289" height="798" frameX="0" frameY="-1" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0001" x="0" y="0" width="289" height="798" frameX="0" frameY="-1" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0002" x="0" y="0" width="289" height="798" frameX="0" frameY="-1" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0003" x="0" y="0" width="289" height="798" frameX="0" frameY="-1" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0004" x="289" y="0" width="289" height="799"/>
+	<SubTexture name="Freeplay0005" x="289" y="0" width="289" height="799"/>
+	<SubTexture name="Freeplay0006" x="289" y="0" width="289" height="799"/>
+	<SubTexture name="Freeplay0007" x="289" y="0" width="289" height="799"/>
+	<SubTexture name="Freeplay0008" x="578" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0009" x="578" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0010" x="578" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0011" x="578" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0012" x="867" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0013" x="867" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0014" x="867" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+	<SubTexture name="Freeplay0015" x="867" y="0" width="289" height="797" frameX="0" frameY="-2" frameWidth="289" frameHeight="799"/>
+</TextureAtlas>

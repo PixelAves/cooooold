@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lost Silver Assets Gold1.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlakeDown0000" x="2854" y="0" width="347" height="537" frameX="0" frameY="0" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0001" x="3201" y="0" width="347" height="536" frameX="0" frameY="-2" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0002" x="3548" y="0" width="347" height="531" frameX="0" frameY="-7" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0003" x="3895" y="0" width="347" height="529" frameX="0" frameY="-9" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0004" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-10" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0005" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0006" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0007" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0008" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0009" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0010" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeDown0011" x="4242" y="0" width="346" height="528" frameX="-1" frameY="-11" frameWidth="347" frameHeight="538"/>
+	<SubTexture name="BlakeLeftS0000" x="4588" y="0" width="520" height="711" frameX="-24" frameY="-5" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0001" x="5108" y="0" width="540" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0002" x="5648" y="0" width="541" height="716" frameX="0" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0003" x="6189" y="0" width="539" height="716" frameX="-2" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0004" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0005" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0006" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0007" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0008" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0009" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0010" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeLeftS0011" x="6728" y="0" width="538" height="716" frameX="-3" frameY="0" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="BlakeRight0000" x="7266" y="0" width="318" height="652" frameX="0" frameY="0" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0001" x="7584" y="0" width="320" height="647" frameX="-6" frameY="-9" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0002" x="0" y="716" width="319" height="639" frameX="-5" frameY="-21" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0003" x="319" y="716" width="319" height="641" frameX="-4" frameY="-19" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0004" x="638" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0005" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0006" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0007" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0008" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0009" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0010" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeRight0011" x="957" y="716" width="319" height="644" frameX="-3" frameY="-17" frameWidth="326" frameHeight="661"/>
+	<SubTexture name="BlakeUp0000" x="1276" y="716" width="542" height="678" frameX="-4" frameY="-4" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0001" x="1818" y="716" width="539" height="680" frameX="-4" frameY="-1" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0002" x="2357" y="716" width="544" height="680" frameX="0" frameY="0" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0003" x="2901" y="716" width="544" height="679" frameX="0" frameY="-1" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0004" x="3445" y="716" width="542" height="678" frameX="-1" frameY="-2" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0005" x="3445" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0006" x="3987" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0007" x="4529" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0008" x="5071" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0009" x="5613" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0010" x="5071" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0011" x="5613" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0012" x="4529" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0013" x="5071" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0014" x="5613" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0015" x="5071" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0016" x="5613" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="BlakeUp0017" x="4529" y="716" width="542" height="678" frameX="-1" frameY="-3" frameWidth="546" frameHeight="682"/>
+	<SubTexture name="Silver Idle0000" x="6155" y="716" width="375" height="696" frameX="-5" frameY="0" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0001" x="6530" y="716" width="374" height="694" frameX="-9" frameY="-2" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0002" x="6904" y="716" width="375" height="686" frameX="-4" frameY="-14" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0003" x="7279" y="716" width="375" height="686" frameX="-4" frameY="-14" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0004" x="7654" y="716" width="375" height="684" frameX="-5" frameY="-17" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0005" x="0" y="1412" width="376" height="684" frameX="0" frameY="-17" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0006" x="376" y="1412" width="375" height="686" frameX="-4" frameY="-14" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0007" x="751" y="1412" width="375" height="686" frameX="-4" frameY="-14" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0008" x="1126" y="1412" width="375" height="693" frameX="-5" frameY="-4" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0009" x="1501" y="1412" width="375" height="693" frameX="-6" frameY="-4" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0010" x="1876" y="1412" width="375" height="696" frameX="-5" frameY="0" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0011" x="6155" y="716" width="375" height="696" frameX="-5" frameY="0" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0012" x="2251" y="1412" width="375" height="696" frameX="-5" frameY="0" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Idle0013" x="6155" y="716" width="375" height="696" frameX="-5" frameY="0" frameWidth="383" frameHeight="701"/>
+	<SubTexture name="Silver Spawn FULL0000" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0001" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0002" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0003" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0004" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0005" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0006" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0007" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0008" x="0" y="0" width="375" height="695"/>
+	<SubTexture name="Silver Spawn FULL0009" x="375" y="0" width="328" height="632" frameX="-24" frameY="-32" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0010" x="703" y="0" width="328" height="640" frameX="-24" frameY="-28" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0011" x="1031" y="0" width="348" height="654" frameX="-14" frameY="-21" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0012" x="1379" y="0" width="360" height="664" frameX="-8" frameY="-16" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0013" x="1739" y="0" width="370" height="678" frameX="-3" frameY="-9" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0014" x="2109" y="0" width="370" height="689" frameX="-3" frameY="-3" frameWidth="375" frameHeight="695"/>
+	<SubTexture name="Silver Spawn FULL0015" x="2479" y="0" width="375" height="695"/>
+	<SubTexture name="shadowrealm0000" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0001" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0002" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0003" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0004" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0005" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0006" x="2626" y="1412" width="324" height="442" frameX="-100" frameY="-116" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0007" x="2950" y="1412" width="422" height="528" frameX="-54" frameY="-74" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0008" x="3372" y="1412" width="453" height="564" frameX="-38" frameY="-56" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0009" x="3825" y="1412" width="472" height="590" frameX="-30" frameY="-43" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0010" x="4297" y="1412" width="496" height="622" frameX="-21" frameY="-30" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0011" x="4793" y="1412" width="526" height="660" frameX="-8" frameY="-13" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0012" x="5319" y="1412" width="536" height="676" frameX="-3" frameY="-7" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0013" x="5855" y="1412" width="543" height="682" frameX="0" frameY="-2" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0014" x="6398" y="1412" width="543" height="692" frameX="0" frameY="0" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0015" x="6941" y="1412" width="543" height="692" frameX="0" frameY="0" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0016" x="7484" y="1412" width="540" height="685" frameX="-3" frameY="-4" frameWidth="545" frameHeight="692"/>
+	<SubTexture name="shadowrealm0017" x="1276" y="716" width="542" height="678" frameX="-3" frameY="-4" frameWidth="546" frameHeight="682"/>
+</TextureAtlas>

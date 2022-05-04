@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CartridgeGuy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CartridgeGuy0000" x="0" y="0" width="506" height="684" frameX="-105" frameY="-85" frameWidth="638" frameHeight="785"/>
+	<SubTexture name="CartridgeGuy0001" x="506" y="0" width="638" height="785"/>
+</TextureAtlas>
